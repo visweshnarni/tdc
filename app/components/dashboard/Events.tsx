@@ -100,7 +100,7 @@ export default function Events({ entries }: Props) {
             onClick={handleLoadMore}
             className="cursor-pointer text-white bg-[#00694A] hover:bg-[#004d36]"
           >
-            Load More . . .
+            Load More . . . . .
           </Button>
         </div>
       )}
