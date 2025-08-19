@@ -1,5 +1,5 @@
 'use client';
-
+//This file is a client component in Next.js, which allows us to use hooks like useState and useEffect. 
 import Image from "next/image";
 import Link from "next/link";
 import { useEffect, useState } from "react";
