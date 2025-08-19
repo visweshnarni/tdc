@@ -5,14 +5,14 @@ import "./globals.css";
 import { Geist, Geist_Mono } from "next/font/google";
 import { Francois_One, Inter, Poppins } from "next/font/google";
 
-// Existing fonts
+// Existing fonts latin style 
 const geistSans = Geist({ variable: "--font-geist-sans", subsets: ["latin"] });
 const geistMono = Geist_Mono({
   variable: "--font-geist-mono",
   subsets: ["latin"],
 });
 
-// New fonts from your style guide
+// New fonts from your proper style guide 
 const francois = Francois_One({
   weight: "400",
   subsets: ["latin"],
