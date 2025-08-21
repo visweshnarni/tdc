@@ -10,7 +10,7 @@ const dummyData: NocRecord[] = [
     registrationNumber: "TS123456",
     category: "General Medicine",
     appointmentDate: "2025-07-25",
-    slot: "10:30 AM to 10:35 AM", // Morning slot
+    slot: "10:30 AM to 10:35 AM", // Morning slot for NOC
   },
   {
     id: "2",

@@ -38,7 +38,7 @@ export const councilNotes: CouncilNote[] = [
     date: "2025-06-28 17:45:00",
     category: "Renewal",
     note: "Your documents have been successfully verified. You may proceed with fee payment online.",
-    from: "TDC Registrar",
+    from: "TDC Staff",
   },
   {
     date: "2025-06-20 14:25:10",
