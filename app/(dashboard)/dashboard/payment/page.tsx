@@ -1,6 +1,6 @@
 import PaymentList from "@/app/components/dashboard/Payments";
 import { payments } from "@/app/data/dummypayments";
-
+// import { getCurrentUser } from "@/lib/session";
 export default function PaymentsPage() {
   return (
     <div>
