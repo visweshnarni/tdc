@@ -1,5 +1,5 @@
 import Profile from "@/app/components/dashboard/Profile";
-
+// import { getCurrentUser } from "@/lib/session";
 export default function MyProfilePage() {
   return (
     <div>
