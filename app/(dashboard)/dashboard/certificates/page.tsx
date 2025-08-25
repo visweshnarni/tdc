@@ -1,3 +1,4 @@
+// tdc/app/(dashboard)/
 import CertificateList from "@/app/components/dashboard/CertificateList";
 import { generateDummyCertificates } from "@/app/data/generateDummyCertificates";
 
